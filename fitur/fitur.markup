@@ -1,0 +1,51 @@
+👤 Aktor & Fitur
+  1. Mahasiswa (Tanpa Login / Login jika pesan)
+  🔍 Cari kelas/tutor berdasarkan kategori atau kata kunci
+
+  👁️ Lihat detail kelas (nama, deskripsi, jadwal, harga, prestasi tutor, rating, dsb)
+
+  📝 Pesan layanan (ikut kelas sesuai jadwal tutor)
+
+  💳 Pembayaran via Midtrans
+
+  ⭐ Beri rating/review setelah ikut kelas
+
+  ✅ Mendaftar sebagai tutor (optional)
+
+  2. Tutor / Mentor (Setelah Register/Login)
+  🧾 Form Pendaftaran sebagai Tutor:
+
+  Nama, Jurusan, Angkatan, Prestasi, Sertifikat, dll
+
+  📊 Dashboard Tutor:
+
+  ➕ Tambah / Buka kelas baru:
+
+  Nama kelas
+
+  Kategori (dropdown Akademik/Non-akademik)
+
+  Deskripsi
+
+  Jadwal (hari, jam, durasi pertemuan, periode)
+
+  Harga per peserta
+
+  Status kelas (Online / Offline)
+
+  📋 Lihat daftar pemesanan:
+
+  Nama kelas, jumlah pemesan, jadwal, durasi, status pembayaran
+
+  📈 Laporan pendapatan:
+
+  Total peserta, harga per peserta, total pendapatan, status & periode kelas
+
+  3. Admin (Login)
+  👥 Kelola data tutor
+
+  💼 Kelola transaksi & laporan keuangan
+
+  📊 Pantau aktivitas sistem
+
+  📈 Statistik pengguna dan pendapatan (opsional)
