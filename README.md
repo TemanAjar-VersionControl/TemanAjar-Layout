@@ -8,18 +8,18 @@
 
 ### 1. 🧑‍🎓 Mahasiswa *(Tanpa Login / Login jika ingin memesan)*
 
-- [x] 🔍 **Cari kelas/tutor** berdasarkan kategori atau kata kunci  
-- [x] 👁️ **Lihat detail kelas**  
+- [] 🔍 **Cari kelas/tutor** berdasarkan kategori atau kata kunci  
+- [] 👁️ **Lihat detail kelas**  
   - Nama kelas  
   - Deskripsi  
   - Jadwal  
   - Harga  
   - Prestasi tutor  
   - Rating & ulasan
-- [x] 📝 **Pesan layanan** (ikut kelas sesuai jadwal tutor)
-- [x] 💳 **Pembayaran** via **Midtrans**
-- [x] ⭐ **Beri rating/review** setelah ikut kelas
-- [ ] ✅ **Mendaftar sebagai tutor** *(opsional)*
+- [] 📝 **Pesan layanan** (ikut kelas sesuai jadwal tutor)
+- [] 💳 **Pembayaran** via **Midtrans**
+- [] ⭐ **Beri rating/review** setelah ikut kelas
+- [] ✅ **Mendaftar sebagai tutor** *(opsional)*
 
 ---
 
