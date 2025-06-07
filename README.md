@@ -1,4 +1,4 @@
-# TeamnAjar - Layout
+# TemanAjar - Layout
 
 # 📚 Sistem Platform Pencarian & Pemesanan Kelas
 
